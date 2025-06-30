@@ -25,8 +25,6 @@ Smart Heart Monitor adalah aplikasi pemantauan detak jantung real-time berbasis 
 
 ## 📁 Struktur Direktori
 
-```
-
 project-root/
 ├── public/
 │   └── index.html
@@ -50,8 +48,6 @@ project-root/
 ├── package.json
 ├── vercel.json
 └── README.md
-
-````
 
 ---
 
