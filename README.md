@@ -4,8 +4,6 @@
 Smart Heart Monitor adalah aplikasi pemantauan detak jantung real-time berbasis web yang diintegrasikan dengan microcontroller **ESP32** dan layanan **Firebase Realtime Database**. Aplikasi ini dikembangkan untuk memudahkan tim medis, peneliti, maupun pengguna individu dalam mencatat, meninjau, dan memvisualisasikan data denyut jantung pasien secara terstruktur dan responsif.
 
 ```markdown
----
-
 ## ⚙️ Fitur Utama
 
 - Upload file **Excel (.xlsx)** berisi data pasien
