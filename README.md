@@ -1,6 +1,3 @@
-Berikut ini adalah file **`README.md`** untuk project **Smart Heart Monitor** terbaru kamu, ditulis dengan gaya profesional dan natural—tanpa terlihat seperti buatan AI:
-
----
 
 ```markdown
 # 💓 Smart Heart Pulse Monitoring Web App
