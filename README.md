@@ -111,6 +111,8 @@ Ubah kredensial berikut:
 #define WIFI_SSID "NAMA_WIFI"
 #define WIFI_PASSWORD "PASSWORD_WIFI"
 #define DATABASE_URL "https://smart-heart-sensors-default-rtdb.asia-southeast1.firebasedatabase.app/"
+
+
 ````
 
 Kompilasi dan upload ke ESP32.
@@ -150,14 +152,3 @@ Kompilasi dan upload ke ESP32.
 Aplikasi ini dikembangkan sebagai bagian dari proyek edukatif dan riset teknologi medis berbasis IoT.
 Lisensi bebas digunakan untuk keperluan penelitian, lomba, dan pengembangan pribadi.
 Untuk kontribusi, fork repo ini dan kirimkan pull request.
-
----
-
-Terima kasih telah menggunakan **Smart Heart Monitor** 💖
-
-```
-
----
-
-Kalau kamu ingin, saya bisa langsung masukkan isi README ini ke dalam `README.md` dan update file ZIP kamu. Perlu?
-```
