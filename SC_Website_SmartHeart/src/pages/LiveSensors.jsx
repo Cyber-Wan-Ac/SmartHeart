@@ -1,0 +1,1 @@
+// LiveSensors component placeholder

@@ -1,0 +1,1 @@
+// PatientDetail component with PDF export placeholder
