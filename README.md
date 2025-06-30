@@ -35,7 +35,6 @@ project-root/
 │       └── ui/
 │           ├── button.jsx
 │           └── card.jsx
-├── ESP32\_SmartHeart.ino
 ├── jsconfig.json
 ├── tailwind.config.js
 ├── postcss.config.js
