@@ -1,7 +1,22 @@
 
-# 💓 Smart Heart Pulse Monitoring Web App
+<h1 align="center">💓 Smart Heart Pulse Monitoring Web App</h1>
+
+<p align="center">
+  <b>Aplikasi pemantauan detak jantung real-time berbasis ESP32 & Firebase</b><br>
+  <i>Mudah digunakan untuk keperluan medis, edukasi, dan penelitian IoT.</i>
+</p>
+
+<p align="center">
+  <img src="https://your-image-url.com/screenshot.png" alt="SmartHeart Preview" width="600"/>
+</p>
+
+<p align="center">
+  <a href="https://vercel.app"><img alt="Deployed on Vercel" src="https://img.shields.io/badge/deploy-vercel-black?logo=vercel"></a>
+  <a href="https://github.com/yourusername/smartheart"><img alt="GitHub stars" src="https://img.shields.io/github/stars/yourusername/smartheart?style=social"></a>
+</p>
 
 Smart Heart Monitor adalah aplikasi pemantauan detak jantung real-time berbasis web yang diintegrasikan dengan microcontroller **ESP32** dan layanan **Firebase Realtime Database**. Aplikasi ini dikembangkan untuk memudahkan tim medis, peneliti, maupun pengguna individu dalam mencatat, meninjau, dan memvisualisasikan data denyut jantung pasien secara terstruktur dan responsif.
+
 
 ---
 
