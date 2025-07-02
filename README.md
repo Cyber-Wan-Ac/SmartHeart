@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://itgid.org/wp-content/uploads/2015/11/web-design.jpg.webp" alt="SmartHeart Preview" width="600"/>
+  <img src="https://drive.google.com/uc?export=view&id=1A5hee9YgZ_Jiv90PhZITE_TgtJ2mBYAe" alt="SmartHeart Preview" width="600"/>
 </p>
 
 <p align="center">
