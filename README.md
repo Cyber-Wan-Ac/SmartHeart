@@ -6,14 +6,14 @@ Smart Heart Monitor adalah aplikasi pemantauan detak jantung real-time berbasis 
 ```markdown
 ## ⚙️ Fitur Utama
 
-- Upload file **Excel (.xlsx)** berisi data pasien
+- Upload file Excel (.xlsx) berisi data pasien
 - Menampilkan daftar pasien dalam format tabel atau kolom horizontal
-- Deteksi dan pemantauan **BPM (Beats Per Minute)** per pasien
+- Deteksi dan pemantauan BPM (Beats Per Minute) per pasien
 - Visualisasi grafik detak jantung secara live
-- Tombol **"Lihat Kondisi"** untuk membuka detail grafik & angka BPM
+- Tombol "Lihat Kondisi" untuk membuka detail grafik & angka BPM
 - Simpan histori BPM di Firebase
-- Tampilan **responsif mobile** dengan latar belakang penuh
-- Fitur **export ke PDF** untuk laporan pasien (opsional)
+- Tampilan responsif mobile dengan latar belakang penuh
+- Fitur export ke PDF untuk laporan pasien (opsional)
 - Koneksi real-time antara ESP32 → Firebase → Web
 
 ---
@@ -85,8 +85,8 @@ Lalu klik tombol **Upload File** di halaman utama.
 1. Pastikan ESP32 terhubung ke WiFi
 2. Data detak jantung akan dikirim ke Firebase setiap 1 detik
 3. Web app akan mengambil data tersebut dan:
-   - Menampilkan **angka BPM**
-   - Menampilkan **grafik dinamis**
+   - Menampilkan angka BPM
+   - Menampilkan grafik dinamis
    - Menyimpan riwayat ke `/patients/[ID]/bpm_history`
 
 ---
