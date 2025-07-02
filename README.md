@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1YmyKF8DiypBKj7gjQTx6TbaJ_2kQkTuU" alt="SmartHeart Logo" width="100"/>
+  <img src="https://drive.google.com/uc?export=view&id=1YmyKF8DiypBKj7gjQTx6TbaJ_2kQkTuU" alt="SmartHeart Logo" width="170"/>
 </p>
 
 <h1 align="center">💓 Smart Heart Pulse Monitoring Web App</h1>
