@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://your-image-url.com/screenshot.png" alt="SmartHeart Preview" width="600"/>
+  <img ![SmartHeart Preview](URL_atau_path_gambar), width="600"/>
 </p>
 
 <p align="center">
