@@ -3,8 +3,9 @@
 
 Smart Heart Monitor adalah aplikasi pemantauan detak jantung real-time berbasis web yang diintegrasikan dengan microcontroller **ESP32** dan layanan **Firebase Realtime Database**. Aplikasi ini dikembangkan untuk memudahkan tim medis, peneliti, maupun pengguna individu dalam mencatat, meninjau, dan memvisualisasikan data denyut jantung pasien secara terstruktur dan responsif.
 
-```markdown
-## ⚙️ Fitur Utama
+---
+
+⚙️ Fitur Utama
 
 - Upload file Excel (.xlsx) berisi data pasien
 - Menampilkan daftar pasien dalam format tabel atau kolom horizontal
@@ -18,7 +19,8 @@ Smart Heart Monitor adalah aplikasi pemantauan detak jantung real-time berbasis 
 
 ---
 
-## 📁 Struktur Direktori
+```markdown
+📁 Struktur Direktori
 
 SmartHeart/
 ├── public/
@@ -53,7 +55,7 @@ SmartHeart/
 
 ---
 
-## 🔗 Teknologi
+🔗 Teknologi
 
 | Teknologi        | Deskripsi                                |
 |------------------|-------------------------------------------|
@@ -67,7 +69,7 @@ SmartHeart/
 
 ---
 
-## 🧬 Format File Excel
+🧬 Format File Excel
 
 Untuk mengimpor data pasien, siapkan file `.xlsx` dengan struktur seperti berikut:
 
@@ -79,8 +81,9 @@ Untuk mengimpor data pasien, siapkan file `.xlsx` dengan struktur seperti beriku
 Lalu klik tombol **Upload File** di halaman utama.
 
 ---
+````
 
-## 📊 Live Sensor Monitoring
+📊 Live Sensor Monitoring
 
 1. Pastikan ESP32 terhubung ke WiFi
 2. Data detak jantung akan dikirim ke Firebase setiap 1 detik
@@ -91,7 +94,7 @@ Lalu klik tombol **Upload File** di halaman utama.
 
 ---
 
-## 🔧 Mode Uji & Realtime
+🔧 Mode Uji & Realtime
 
 | Mode        | Keterangan                                               |
 |-------------|-----------------------------------------------------------|
@@ -101,7 +104,7 @@ Lalu klik tombol **Upload File** di halaman utama.
 
 ---
 
-## 🔌 Kode ESP32
+🔌 Kode ESP32
 
 Tersedia di file `ESP32_SmartHeart.ino`, menggunakan library:
 
@@ -113,8 +116,6 @@ Ubah kredensial berikut:
 #define WIFI_SSID "NAMA_WIFI"
 #define WIFI_PASSWORD "PASSWORD_WIFI"
 #define DATABASE_URL "https://smart-heart-sensors-default-rtdb.asia-southeast1.firebasedatabase.app/"
-
-
 ````
 
 Kompilasi dan upload ke ESP32.
