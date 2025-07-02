@@ -20,27 +20,35 @@ Smart Heart Monitor adalah aplikasi pemantauan detak jantung real-time berbasis 
 
 ## 📁 Struktur Direktori
 
-project-root/
+SmartHeart/
 ├── public/
 │   └── index.html
+│
 ├── src/
-│   ├── App.jsx
+│   ├── App.js
 │   ├── index.js
 │   ├── index.css
-│   ├── firebaseConfig.js
+│
+│   ├── firebase/
+│   │   └── firebaseConfig.js
+│
 │   ├── pages/
+│   │   ├── Home.jsx
 │   │   ├── LiveSensors.jsx
 │   │   └── PatientDetail.jsx
+│
 │   └── components/
 │       └── ui/
-│           ├── button.jsx
-│           └── card.jsx
-├── jsconfig.json
-├── tailwind.config.js
-├── postcss.config.js
+│           ├── Button.jsx
+│           └── Card.jsx
+│
+├── .env.local
 ├── .env.local.example
 ├── package.json
+├── tailwind.config.js
+├── postcss.config.js
 ├── vercel.json
+├── jsconfig.json
 └── README.md
 
 ---
