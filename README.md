@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img ![SmartHeart Preview](URL_atau_path_gambar), width="600"/>
+  <img src="https://itgid.org/wp-content/uploads/2015/11/web-design.jpg.webp" alt="SmartHeart Preview" width="600"/>
 </p>
 
 <p align="center">
